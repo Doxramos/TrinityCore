@@ -16,10 +16,11 @@
  */
 
 // This is where scripts' loading functions should be declared:
-
+void AddSC_Player_Boa();
 
 // The name of this function should match:
 // void Add${NameOfDirectory}Scripts()
 void AddCustomScripts()
 {
+	Player_Boa();
 }
